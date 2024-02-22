@@ -1,0 +1,376 @@
+img.slid {
+    height: 700px;
+}
+.navbar {
+    background-color: red;
+}
+
+.background {
+    background-color: black;
+
+}
+.nav-btn 
+{
+    background-color: white !important;
+}
+
+.background .card-body:hover img {
+    /* opacity: 1.8;  */
+   transform: scale(1.1);/* Change the opacity on hover if desired */
+  }
+
+  .background .card-body:hover h6 {
+    color: yellow; /* Change the text color on hover to your desired color */
+  }
+
+.background h4 {
+    color: aliceblue;
+    padding-top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.background p {
+    color: aliceblue;
+    padding-top: 20px;
+}
+
+.card-body h6 {
+    color: white;
+}
+
+.background2 {
+    background-color: rgb(36, 37, 34);
+
+}
+
+.background2 h6 {
+    color: yellow;
+
+}
+
+.background2 p,
+h4 {
+    color: aliceblue;
+}
+
+.background2 button {
+    background-color: white;
+    color: red;
+    width: 140px;
+    height: 40px;
+    border: 2px solid;
+}
+
+.background2 button:hover {
+    background-color: yellow;
+}
+
+.background3 {
+    background-color: black;
+
+}
+
+.background3 h6 {
+    color: yellow;
+}
+
+.background3 p,
+h4 {
+    color: aliceblue;
+}
+
+.background3 button {
+    background-color: white;
+    color: red;
+    width: 140px;
+    height: 40px;
+    border: 2px solid;
+}
+
+.background3 button:hover {
+    background-color: yellow;
+}
+
+.c-body {
+    width: 100%;
+    /* border: 3px solid green; */
+    padding: 10px;
+    margin-top: 40%;
+    /* top: 30%; */
+  }
+
+
+.image {
+    background-color: black;
+    position: relative;
+}
+
+.image img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.img-content {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+
+}
+
+.img-content h4 {
+    font-size: 2rem;
+
+    font-weight: bold;
+    margin-bottom: 10px;
+
+}
+
+.img-content p {
+    font-weight: bold;
+
+}
+
+.image .youtube {
+    width: 80%;
+    height: 50%;
+    position: absolute;
+    top: 40%;
+    margin-left: 130px;
+
+}
+
+.youtube iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.image .img-btn {
+    width: 180px;
+    height: 40px;
+    background-color: #ffffff;
+    color: red;
+}
+
+.image .img-btn:hover {
+    background-color: yellow;
+}
+
+.container .card {
+    background-color: transparent;
+    overflow: hidden;
+}
+
+.background4 {
+    background-color: black;
+
+}
+
+.background4 h6 {
+    color: yellow;
+
+}
+
+.background4 p,
+h4 {
+    color: aliceblue;
+
+}
+
+.background4 button {
+    background-color: white;
+    color: red;
+    width: 140px;
+    height: 40px;
+    border: 2px solid;
+}
+
+.background4 .card:hover img {
+   transform: scale(1.1);/* Change the opacity on hover if desired */
+  }
+
+  /* .background4 .card-body:hover {
+    background-color: yellow; 
+  } */
+
+
+  /* .background4 .card{
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+  } */
+
+
+
+.logo {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+
+}
+
+.card-body {
+    position: relative;
+}
+
+.card-body.bg-dark {
+    color: white;
+}
+
+.card-text {
+    width: 100%;
+    height: 50px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.background5 {
+    background-color: black;
+   
+}
+
+.background5 p,
+h4 {
+    color: aliceblue;
+
+}
+
+.background5 h6 {
+    color: yellow;
+
+}
+
+.background5 .card-body {
+    border-radius: 25px;
+    /* background: #73AD21; */
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+  }
+
+  .background5 .col-12 img{
+    border-radius: 35px;
+    /* background: #73AD21; */
+    /* padding: 20px; */
+    width: 100%;
+    height: 100%;
+  }
+
+
+.footer
+{
+    background-color: black;
+}
+.footer h3 img {
+    width: 20px;
+    height: 20px;
+}
+
+.footer .fbingo img {
+    width: 400px;
+}
+
+.footer ul {
+
+    margin-top: 50px;
+    border-right: 1px solid gray;
+    padding: 10px;
+    font-weight: bold;
+    list-style: none;
+    color: #ffffff;
+    font-size: 1rem;
+    
+}
+
+#f-row-2 {
+    border-top: 1px solid gray;
+}
+
+.footer h3 img {
+    width: 20px;
+    height: 20px;
+}
+.footer h3
+{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+}
+.footer a{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 12px;
+}
+.background5 .card-body
+{
+    height: 450px;
+}
+
+
+@media (max-width:768px) {
+    .image .youtube {
+        width: 80%;
+        height: 50%;
+        position: absolute;
+        top: 40%;
+        margin-left: 30px;
+
+    }
+
+
+    .img-content {
+        width: 50%;
+
+    }
+
+    .img-content h4 {
+        font-size: 1rem;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    .img-content p {
+        font-weight: bold;
+        font-size: .5rem;
+    }
+
+    .footer .fbingo img {
+        width: 100px;
+    }
+
+    .footer ul {
+
+        margin-top: auto;
+        width: 50%;
+        align-items: center;
+        border-right: 1px solid gray;
+        list-style: none;
+        font-weight: bold;
+        color: #ffffff;
+    }
+
+    .youtube .img-btn {
+        width: 70%;
+    }
+      .c-body {
+        width: 100%;
+        /* border: 3px solid green; */
+        padding: 10px;
+        margin-top: 0;
+      }
+
+/* .carousel-inner{
+    padding-top: 50px;
+} */
+
+
+    }
